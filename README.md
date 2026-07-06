@@ -1,7 +1,7 @@
 # Hi, I'm Bhushan 👋
 founder
 
-**Building AI-native PropTech infrastructure** · FastAPI · Celery · Redis · Docker · Embeddings · Founder @Nashik_PropertyHub
+**Backend Engineer building AI-powered PropTech systems with Python, FastAPI, and Machine Learning.** · Celery · Redis · Docker · Embeddings · Founder @Nashik_PropertyHub
 
 ---
 
