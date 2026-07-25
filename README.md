@@ -1,50 +1,105 @@
 # Hi, I'm Bhushan 👋
-founder
 
-**Backend Engineer building AI-powered PropTech systems with Python, FastAPI, and Machine Learning.** · Celery · Redis · Docker · Embeddings · Founder @Nashik_PropertyHub
+**Backend Engineer | Machine Learning Engineer (Learning) | Founder @ Nashik Property Hub**
 
----
-
-## 🔧 What I build
-
-- **Async microservices** — FastAPI + Celery + Redis + Docker multi-container networks
-- **Data pipelines** — async ingestion engines with Motor (MongoDB), Pydantic schemas, idempotent deduplication
-- **Scraping systems** — Python scrapers feeding real-time analytics at scale
+I build backend systems and AI-powered PropTech solutions with a focus on scalable APIs, data pipelines, and machine learning for real estate.
 
 ---
 
-## 🚀 Currently
+## 🚀 Current Focus
 
-- 🏗️ **Founder & Tech Lead @ [Nashik Property Hub](https://instagram.com/nashik_propertyhub)** — PropTech platform tracking real estate data across Pune & Nashik
-- 💼 **Python Developer Intern @ 4AM Global Media** — Django backend in production
-- 🎓 MCA Final Year @ SIOM, Pune (2026)
-- ☁️ OCI Certified Data Science Professional
+* 🤖 Building a complete Machine Learning portfolio in **ml-roadmap** and **ml-projects**
+* 🏡 Developing AI features for **Nashik Property Hub**
+* ⚙️ Building production-ready backend systems using FastAPI, Celery, Redis, and Docker
+* 🎓 MCA Final Year @ SIOM, Pune (2026)
+
+---
+
+## 🔨 What I'm Building
+
+### 🤖 Machine Learning
+
+* Learning ML from fundamentals to production
+* Regression, Classification, Computer Vision & NLP
+* End-to-end ML projects with Scikit-learn
+* FastAPI model deployment
+
+### 🏡 PropTech
+
+Building intelligent real estate systems including:
+
+* Property price prediction
+* Property recommendation
+* Lead scoring
+* AI-powered property search
+* Real estate data pipelines
+
+### ⚙️ Backend Engineering
+
+* FastAPI microservices
+* Celery task queues
+* Redis
+* Docker
+* MongoDB
+* Async Python
 
 ---
 
-## 🛠️ Stack
+## 📌 Featured Repositories
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+### 🧠 AI & Machine Learning
+
+* **ml-roadmap** — My structured Machine Learning learning journey
+* **ml-projects** — End-to-end Machine Learning projects
+
+### 🏡 PropTech
+
+* **nashik-property-hub** — AI-powered real estate platform
+* **ai-infrastructure** — AI infrastructure and backend architecture
 
 ---
-<!-- 
-## 📌 Pinned projects
 
-| Repo | What it is |
-|------|-----------|
-| [nashik-property-hub](https://github.com/Bhushan-Ahiree/nashik-property-hub) | Production PropTech backend architecture |
-| [fastapi-celery-starter](https://github.com/Bhushan-Ahiree/fastapi-celery-starter) | FastAPI + Celery + Redis boilerplate |
-| [async-scraper-engine](https://github.com/Bhushan-Ahiree/async-scraper-engine) | Async Python scraping + MongoDB pipeline |
+## 🛠 Tech Stack
 
---- -->
+**Languages**
 
-## 📫 Reach me
+* Python
+* SQL
+
+**Machine Learning**
+
+* NumPy
+* Pandas
+* Matplotlib
+* Scikit-learn
+* OpenCV
+
+**Backend**
+
+* FastAPI
+* Django
+* Celery
+* Redis
+* MongoDB
+* Docker
+
+---
+
+## 📚 Currently Learning
+
+* Feature Engineering
+* Model Evaluation
+* Production Machine Learning
+* MLOps
+* Computer Vision
+
+---
+
+## 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhushan-ahiree)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bhushan.ahire.dev@gmail.com)
+
+---
+
+> *Building practical AI systems for the real estate industry.*
