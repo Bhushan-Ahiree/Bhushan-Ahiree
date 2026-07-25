@@ -1,6 +1,6 @@
 # Hi, I'm Bhushan 👋
 
-**Backend Engineer | Machine Learning Engineer (Learning) | Founder @ Nashik Property Hub**
+**Backend Engineer | Machine Learning Engineer (Learning) | Founder @Nashik_PropertyHub**
 
 I build backend systems and AI-powered PropTech solutions with a focus on scalable APIs, data pipelines, and machine learning for real estate.
 
